@@ -1,0 +1,26 @@
+[package]
+name = "derive_screaming_snake_case"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Abhinandh S <abhinandhsuby@proton.me>"]
+description = "A lightweight Rust proc-macro crate that implements the Display trait for enums with unit variants by converting each variant's name into SCREAMING_SNAKE_CASE."
+homepage = "https://github.com/abhinandh-s/derive_screaming_snake_case"
+repository = "https://github.com/abhinandh-s/derive_screaming_snake_case"
+documentation = "https://docs.rs/derive_screaming_snake_case"
+readme = "README.md"
+keywords = ["derive", "macro", "display", "enum", "case-conversion"]
+categories = [
+  "rust-patterns",
+]
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = { version = "2.0" }
+quote = "1.0"
+
