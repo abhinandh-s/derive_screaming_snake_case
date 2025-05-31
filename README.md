@@ -52,7 +52,10 @@ Licensed under <a href="LICENSE">MIT license</a>.
 </br>
 
 <sub>
-Copyright (c) 2025 Abhinandh S</sub></br>
+Copyright (c) 2025 Abhinandh S</sub>
+
+</br>
+
 <sub>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
