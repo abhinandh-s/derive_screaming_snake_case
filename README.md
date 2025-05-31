@@ -49,6 +49,7 @@ enum Message {
 Licensed under <a href="LICENSE">MIT license</a>.
 </sup>
 
+</br>
 
 <sub>
 Copyright (c) 2025 Abhinandh S
